@@ -1,0 +1,6 @@
+bbl loader
+RISC-V Uniqueness Check
+User: free
+Host: ict-chipin
+UniqueID: 0x2156e1f0626991f1
+GCC_VLEN: 5

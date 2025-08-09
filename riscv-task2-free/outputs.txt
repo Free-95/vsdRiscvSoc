@@ -1,0 +1,64 @@
+bbl loader
+=== RISC-V Proof Header ===
+User       : free
+Host       : ict-chipin
+MachineID  : 168619d5dffd4907
+BuildUTC   : 2025-08-08T20:17:43Z
+BuildEpoch : 1754684263
+GCC        : 8.3.0
+PointerBits: 64
+Program    : factorial
+ProofID    : 0x7d71db163a8ea81f
+RunID      : 0x8690d93795d9113d
+===========================
+n=12, n!=479001600
+
+bbl loader
+=== RISC-V Proof Header ===
+User       : free
+Host       : ict-chipin
+MachineID  : 168619d5dffd4907
+BuildUTC   : 2025-08-08T20:18:56Z
+BuildEpoch : 1754684336
+GCC        : 8.3.0
+PointerBits: 64
+Program    : max_array
+ProofID    : 0x2e4bdebb5b2f7960
+RunID      : 0xd4da707d7bb8b086
+===========================
+Array length=9, Max=88
+
+bbl loader
+=== RISC-V Proof Header ===
+User       : free
+Host       : ict-chipin
+MachineID  : 168619d5dffd4907
+BuildUTC   : 2025-08-08T20:19:54Z
+BuildEpoch : 1754684394
+GCC        : 8.3.0
+PointerBits: 64
+Program    : bitops
+ProofID    : 0x75c30b64184976bc
+RunID      : 0xa0b13ea88038e20a
+===========================
+x&y=0x05050024
+x|y=0xAFAFB7B5
+x^y=0xAAAAB791
+x<<3=0x2D2D2D28
+y>>2=0x03C3C48D
+
+bbl loader
+=== RISC-V Proof Header ===
+User       : free
+Host       : ict-chipin
+MachineID  : 168619d5dffd4907
+BuildUTC   : 2025-08-08T20:20:41Z
+BuildEpoch : 1754684441
+GCC        : 8.3.0
+PointerBits: 64
+Program    : bubble_sort
+ProofID    : 0x6210c5f178b0a629
+RunID      : 0x8c9fb25199fe8413
+===========================
+Sorted: 1 2 3 4 5 6 7 8 9
+
